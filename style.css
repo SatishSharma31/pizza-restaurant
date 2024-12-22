@@ -91,7 +91,7 @@ main {
   background-position: left top;
   background-repeat: no-repeat;
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
-    url("images/hero-img.jpg");
+    url("https://github.com/SatishSharma31/pizza-restaurant/blob/main/hero-img.jpg");
 }
 .hero-banner {
   padding: 130px 0 150px 60px;
