@@ -277,7 +277,7 @@ div.item img {
 }
 .glyphicon-chevron-left:before {
   /* content: "\e079"; */
-  background-image: url(images/chevron-left.png);
+  background-image: url(https://github.com/SatishSharma31/pizza-restaurant/blob/main/chevron-left.png);
 }
 .glyphicon-chevron-right:before {
   content: none !important;
@@ -568,7 +568,7 @@ li.phone img {
     background-position: center bottom;
     background-repeat: no-repeat;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-      url("images/hero-img.jpg");
+      url("https://github.com/SatishSharma31/pizza-restaurant/blob/main/hero-img.jpg");
   }
   .hero-banner {
     padding: 40px 0 50px 60px;
@@ -776,7 +776,7 @@ li.phone img {
   }
   .glyphicon-chevron-left:before {
     /* content: "\e079"; */
-    background-image: url(images/chevron-left.png);
+    background-image: url(https://github.com/SatishSharma31/pizza-restaurant/blob/main/chevron-left.png);
   }
   .glyphicon-chevron-right:before {
     content: none !important;
@@ -1078,7 +1078,7 @@ li.phone img {
     background-position: center bottom;
     background-repeat: no-repeat;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-      url("images/hero-img.jpg");
+      url("https://github.com/SatishSharma31/pizza-restaurant/blob/main/hero-img.jpg");
   }
   .hero-banner {
     padding: 40px 0 50px 60px;
